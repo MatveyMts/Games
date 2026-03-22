@@ -1,2 +1,3 @@
 start with cmd,
-made by MatveyMts
+made by MatveyMts,
+language: Russian
